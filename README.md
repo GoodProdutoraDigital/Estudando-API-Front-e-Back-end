@@ -39,11 +39,11 @@ Consumir API <br>
 
 ### Uso lite-serve
 
-npm run dev
+npm run dev <br>
 
 # Back End
-Consumir API
-[] Uso de jsonplaceholder
-[] Uso de Axios
-[] Semelhanças entre Axios e Fecth
+Consumir API <br>
+[] Uso de jsonplaceholder <br>
+[] Uso de Axios <br>
+[] Semelhanças entre Axios e Fecth <br>
 [] Uso de try / catch
