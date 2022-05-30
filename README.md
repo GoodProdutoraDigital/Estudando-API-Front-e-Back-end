@@ -2,9 +2,9 @@
 
 # API
 
-Criando API
-[] Iniciar um novo projeto utilizando 'npm init -y'
-[] Instalar dependencias 'npm i express nodemon cors axios'
+Criando API <br>
+[] Iniciar um novo projeto utilizando 'npm init -y' <br>
+[] Instalar dependencias 'npm i express nodemon cors axios' <br>
 
 ### Configurando nodemon
 
@@ -15,21 +15,21 @@ Criando API
 
 ### Uso nodemon
 
-npm start
+npm start <br>
 
-[] Criar rota para acessar API
-[] Servir API
-[] Habilitar o CORS (Gerenciar controle de Acesso)
-[] Habilitar o nodemon reinicialização automatica do server
+[] Criar rota para acessar API <br>
+[] Servir API <br>
+[] Habilitar o CORS (Gerenciar controle de Acesso) <br>
+[] Habilitar o nodemon reinicialização automatica do server <br>
 
 # Front End
 
-Consumir API
-[] Utilizar fecth para consumir API
-[] Uso 'npm i lite-server --save-dev'
-[] Uso de promisse - async / await
-[] Uso de try / catch
-[] Visualizar response em nossa tela
+Consumir API <br>
+[] Utilizar fecth para consumir API <br>
+[] Uso 'npm i lite-server --save-dev' <br>
+[] Uso de promisse - async / await <br>
+[] Uso de try / catch <br>
+[] Visualizar response em nossa tela <br>
 
 ### Configurando lite-server
 
